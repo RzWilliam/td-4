@@ -1,0 +1,16 @@
+{
+  "name": "rzwilliam-td4",
+  "version": "1.0.0",
+  "description": "A random package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "eslint-plugin-react": "^7.32.2",
+    "mocha": "^10.2.0"
+  }
+}
